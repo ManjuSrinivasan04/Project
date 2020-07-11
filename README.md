@@ -14,31 +14,11 @@ For the purpose of this project the website will contain a student login. After 
 SOFTWARE AND HARDWARE USED :
 
 FRONTEND        :   Angular CLI: 10.0.2
-                                          Node: 12.18.2
-                                              OS: win32 x64
+                           Node: 12.18.2
+                            OS: win32 x64
 MIDDLEWARE  :   Java
-DATABASE        :   MYSQL
-TOOLS                 :  Visual Studio Code and Eclipse
-
-USE CASE DIAGRAM :
-
-
-
- 
-
-
-
-
-
-
-
-DATABASE DESIGN :
-
-
-
- 
-
-
+DATABASE    :   MYSQL
+TOOLS       :  Visual Studio Code and Eclipse
 
 
 DATABASE TABLE STRUCTURE:
@@ -122,13 +102,16 @@ MAVEN :
 •	It is written in Java Language and used to build and manage projects written in C#, Ruby, Scala, and other languages.
 •	To configure the Maven, you need to use Project Object Model, which is stored in a pom.xml-file.
 •	It is used for projects build, dependency and documentation. In short terms we can tell maven is a tool that can be used for building and managing any Java-based project.
+
 REST API :
 •	REST Client applications can use HTTP GET/POST methods to invoke Restful web services. REST doesn’t specify any specific protocol to use, but in almost all cases it’s used over HTTP/HTTPS. 
 •	When compared to SOAP web services, these are lightweight and doesn’t follow any standard. We can use XML, JSON, text or any other type of data for request and response.
+
 WEB SERVLET:
 •	Servlets are Java classes which service HTTP requests and implement the javax.servlet.Servlet interface. 
 •	A servlet is used to extend the capabilities of servers that host applications accessed by means of a request-response programming model.
 •	 Although servlets can respond to any type of request, they are commonly used to extend the applications hosted by web servers.
+
 MVC:
 Model designs based on MVC architecture follow the MVC design pattern and they separate the application logic from the user interface when designing software. As the name implies MVC pattern has three layers, which are:
 •	Model – Represents the business layer of the application
