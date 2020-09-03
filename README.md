@@ -163,7 +163,7 @@ ADVANTAGES :
 •	Usage of this application will be more helpful to the students to know about their courses.
 
 
-GITHUB LINK:  https://github.com/Manju82/Project
+GITHUB LINK: https://github.com/ManjuSrinivasan/Project
 
 
 
